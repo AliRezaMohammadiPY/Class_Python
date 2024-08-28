@@ -43,7 +43,8 @@ def boodje():
         print(f"--------------------\nHazine kala ha : {jam_kala}")
         print("Hazine kala ha Bishtar az Boodje shoma hast !")
     else:
-        print(f"--------------------\nhazine kala ({jam_kala}) ast ,boodje shoma ({boodje_karbar}) ast va mitavanid pardakht konid.")
+        print("shoma mitavanid pardakht konid. :)")
+        print(f"--------------------\nHazine Kala ha ({jam_kala}) ast ,boodje shoma ({boodje_karbar}) ast ")
         print(f"Hazine Baghi mandeh : {baghi_mande}")
     return
 boodje()
