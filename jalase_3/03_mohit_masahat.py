@@ -1,3 +1,8 @@
+"""
+salam, tooye in tamrin shoma bayad 'tool' va 'arz' ro bedi ta barname
+mohit mostatil va masahat mostatil ro behet bege.
+"""
+
 def mohit_masahat():
     while True:
         try:

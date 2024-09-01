@@ -1,3 +1,9 @@
+"""
+salam, tooye in tamrin shoma bayad 'nam kala' va 'hazine kala' ro bedid (tekrari ham mitoone bashe)
+barname miad gheymat haro hesab mikone, boodje shoma ro migire va mige : shoma mitoonid pardakht konid
+ya mige nemtoonid pardakht konid.
+"""
+
 print("-------------------------------------\nagar benvisid 'next' be marhale bad "
       "miravid.\n-------------------------------------")
 

@@ -1,3 +1,8 @@
+"""
+salam in yek tamrin baraye fahmidan sen karbar ke mitoone ray bede ya na hast.
+baraye baste shodan benvisid 'end'
+"""
+
 print("age khasti barname baste beshe benvis 'end'")
 while True:
     age = input("Sen Khod Ra Vared Konid : ")
@@ -7,7 +12,7 @@ while True:
             break
         age = int(age)
     except ValueError:
-        print("Lotfan Adad Sahih (intiger) Vared Konid!")
+        print("Lotfan Adad Sahih (integer) Vared Konid!")
         continue
     
     if age <= 0:
