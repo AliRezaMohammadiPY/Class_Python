@@ -4,6 +4,7 @@ shoma bayad ba vared kardan adad oon adad ro peyda konid, system behetoon komak 
 adad az entekhabetoon bozorg tar ast ya koochek tar.
 """
 
+
 import random
 number = random.randint(1, 100)
 while True:

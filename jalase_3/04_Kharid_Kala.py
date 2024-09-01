@@ -4,6 +4,7 @@ barname miad gheymat haro hesab mikone, boodje shoma ro migire va mige : shoma m
 ya mige nemtoonid pardakht konid.
 """
 
+
 print("-------------------------------------\nagar benvisid 'next' be marhale bad "
       "miravid.\n-------------------------------------")
 
