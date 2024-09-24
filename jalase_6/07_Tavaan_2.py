@@ -5,12 +5,10 @@ print("-----------------------------------------")
 tavaan = lambda num:num ** 2
 
 list_num = []
-while True:
-    voroodi = input("adad ra vared konid: ")
-    if voroodi == "end":
-        break
-    voroodi = int(voroodi)
-    list_num.append(voroodi)
-    tavaan(voroodi)
+voroodi = input("adad ra vared konid: ")
+voroodi = int(voroodi)
+list_num.append(voroodi)
+tavaan(voroodi)
 output = map (tavaan, list_num)
-print(list(output))
+output = list(output)
+print(f"Javab Tavaan 2 Shoma : {output}")
