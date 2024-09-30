@@ -1,9 +1,3 @@
-"""
-salam in yek tamrin baraye fahmidan sen karbar ke mitoone ray bede ya na hast.
-baraye baste shodan benvisid 'end'
-"""
-
-
 print("age khasti barname baste beshe benvis 'end'")
 while True:
     age = input("Sen Khod Ra Vared Konid : ")

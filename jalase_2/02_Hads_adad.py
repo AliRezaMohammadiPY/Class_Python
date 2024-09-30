@@ -1,10 +1,3 @@
-"""
-salam , toye in tamrin system yek adad beyn 1 ta 100 entekhab mikone
-shoma bayad ba vared kardan adad oon adad ro peyda konid, system behetoon komak mikone ke bedoonin
-adad az entekhabetoon bozorg tar ast ya koochek tar.
-"""
-
-
 import random
 number = random.randint(1, 100)
 while True:
