@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="805d7983-707f-47eb-9e13-825d8ce49edb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/jalase_6/05_Bernoli.py" beforeDir="false" afterPath="$PROJECT_DIR$/jalase_6/05_Bernoli.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jalase_6/07_Tavaan_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/jalase_6/07_Tavaan_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,35 +35,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.03_mohit_masahat.executor": "Run",
-    "Python.04_Kharid_Kala.executor": "Run",
-    "Python.05_Bernoli.executor": "Run",
-    "Python.05_fibonachi.executor": "Run",
-    "Python.07_Tavaan_2.executor": "Run",
-    "Python.08_ListTuple.executor": "Run",
-    "Python.08_Ozv_2_Tuple.executor": "Run",
-    "Python.09_Sum.executor": "Run",
-    "Python.Boom!.executor": "Run",
-    "Python.Booom!.executor": "Run",
-    "Python.Tavaan.executor": "Run",
-    "Python.Tavaan_2.executor": "Run",
-    "Python.Test.executor": "Run",
-    "Python.arash.executor": "Run",
-    "Python.tamrin1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "E:/!  Python Class/Python 2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.03_mohit_masahat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Kharid_Kala.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_Bernoli.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05_fibonachi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_Tavaan_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_ListTuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_Ozv_2_Tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Boom!.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Booom!.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tavaan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tavaan_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arash.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tamrin1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/!  Python Class/Python 2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\!  Python Class\Python 2\Jalasat" />
@@ -131,6 +134,7 @@
       <workItem from="1727268876313" duration="4185000" />
       <workItem from="1727440467271" duration="851000" />
       <workItem from="1727526344469" duration="16000" />
+      <workItem from="1727868676438" duration="146000" />
     </task>
     <servers />
   </component>
